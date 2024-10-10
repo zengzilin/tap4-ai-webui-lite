@@ -254,6 +254,16 @@ export const dataList: WebNavigationListRow[] = [
     imageUrl: 'https://img.artiversehub.ai/2024/05/17/d46533e95b4e419bb043ed71dadbba06.png',
     thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/2f3ad3237754483a87032e17d0764b8d.png',
   },
+  {
+    id: '1791352338450386950',
+    name: 'ai-sora',
+    title: 'ai-sora',
+    content: 'ai-sora is an AI model that can create realistic and imaginative scenes from text instructions.',
+    url: 'https://ai-sora.xyz/',
+    imageUrl: 'https://img.artiversehub.ai/2024/05/17/6c89ac1354cc44e7a46dbd6f7d12c38c.png',
+    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/5fac577a5b3049698fe1c9f5aa16e665.png',
+  },
+
 ];
 
 export const detailList: WebNavigationDetailData[] = [
@@ -632,5 +642,19 @@ export const detailList: WebNavigationDetailData[] = [
     websiteData: 'https://openai.com/',
     starRating: 5,
     categoryName: 'Productivity',
+  },
+  {
+    name: 'ai-sora',
+    title: 'ai-sora',
+    detail:
+      "# What is Sora?\nSoraWebui is an open-source project that simplifies video creation by allowing users to generate videos online with OpenAI's Sora model using text, featuring easy one-click website deployment.',
+    url: 'https://ai-sora.xyz/',
+    imageUrl: 'https://img.artiversehub.ai/2024/05/17/6c89ac1354cc44e7a46dbd6f7d12c38c.png',
+    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/5fac577a5b3049698fe1c9f5aa16e665.png',
+    collectionTime: '2024-10-10 14:17:11',
+    tagName: 'Large Language Models (LLMs)',
+    websiteData: 'https://ai-sora.xyz/',
+    starRating: 5,
+    categoryName: 'Design&Art',
   },
 ];
