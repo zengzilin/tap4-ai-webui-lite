@@ -19,8 +19,7 @@
   },
   "engines": {
     "node": ">=20.0.0",
-    "yarn": "please-use-pnpm",  
-    //"pnpm": ">=8.0.0",
+    "yarn": "please-use-pnpm", 
     "npm": "please-use-pnpm"
   },
   "dependencies": {
