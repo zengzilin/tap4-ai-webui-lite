@@ -28,7 +28,7 @@ export const dataList: WebNavigationListRow[] = [
     id: '1792434701288771522',
     name: 'ai-sora',
     title: 'ai-sora',
-    content: 'Ai-sora is an open-source project that simplifies video creation by allowing users to generate videos online with OpenAIs Sora model using text, featuring easy one-click website deployment.',
+    content: 'Ai-sora is an open-source project that simplifies video creation by allowing users to generate videos online with OpenAIs Sora model using text, featuring easy one-click website test deployment.',
     url: 'https://ai-sora.xyz',
     imageUrl: 'https://img.artiversehub.ai/2024/05/20/c5a29d0bd95f4788a592d363b3ee4117.png',
     thumbnailUrl: 'https://img.artiversehub.ai/2024/05/20/7d246f5ac3d240a4bc03e6c01d68f845.png',
