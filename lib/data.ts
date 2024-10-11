@@ -25,6 +25,15 @@ export type WebNavigationDetailData = {
 
 export const dataList: WebNavigationListRow[] = [
   {
+    id: '1792434701288771522',
+    name: 'ai-sora',
+    title: 'ai-sora',
+    content: 'Ai-sora is an open-source project that simplifies video creation by allowing users to generate videos online with OpenAIs Sora model using text, featuring easy one-click website deployment.',
+    url: 'https://ai-sora.xyz',
+    imageUrl: 'https://img.artiversehub.ai/2024/05/20/c5a29d0bd95f4788a592d363b3ee4117.png',
+    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/20/7d246f5ac3d240a4bc03e6c01d68f845.png',
+  },
+  {
     id: '1792434701288771585',
     name: 'woy-ai',
     title: 'Woy AI Tools Directory',
@@ -259,6 +268,21 @@ export const dataList: WebNavigationListRow[] = [
 ];
 
 export const detailList: WebNavigationDetailData[] = [
+  {
+    name: 'ai-sora',
+    title: 'ai-sora video generator',
+    detail: '#Ai-sora is an open-source project that simplifies video creation by allowing users to generate videos online with OpenAIs Sora model using text, featuring easy one-click website deployment.',
+    content: 'Ai-sora is an open-source project that simplifies video creation by allowing users to generate videos online with OpenAIs Sora model using text, featuring easy one-click website deployment.!',
+    url: 'https://ai-sora.xyz',
+    imageUrl: 'https://img.artiversehub.ai/2024/05/20/c5a29d0bd95f4788a592d363b3ee4117.png',
+    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/20/7d246f5ac3d240a4bc03e6c01d68f845.png',
+    collectionTime: '2024-05-20 00:00:00',
+    tagName: 'Website',
+    websiteData: '1000',
+    starRating: 5,
+    categoryName: 'Other',
+  },
+  
   {
     name: 'aigirl-best',
     title: 'Best AI Girl Friend Generator | AIGirl.best',
