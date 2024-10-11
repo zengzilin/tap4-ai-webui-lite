@@ -281,8 +281,7 @@ export const detailList: WebNavigationDetailData[] = [
     websiteData: '1000',
     starRating: 5,
     categoryName: 'Other',
-  },
-  
+  },  
   {
     name: 'aigirl-best',
     title: 'Best AI Girl Friend Generator | AIGirl.best',
